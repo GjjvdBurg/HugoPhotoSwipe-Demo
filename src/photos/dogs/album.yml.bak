@@ -6,63 +6,58 @@ properties:
 copyright:
 coverimage: wall-animal-dog-pet.jpg
 creation_time: "2017-02-08T23:16:59-05:00"
-modification_time: "2017-02-08T23:19:40-05:00"
+modification_time: "2017-02-08T23:22:08-05:00"
 
 photos:
 - file: chihuahua-dog-puppy-cute-39317.jpeg
   name: chihuahua-dog-puppy-cute-39317.jpeg
   alt:
-  caption:
+  caption: 
 
 - file: pexels-photo-117486.jpeg
   name: pexels-photo-117486.jpeg
   alt:
-  caption:
+  caption: 
 
 - file: pexels-photo-139519.jpeg
   name: pexels-photo-139519.jpeg
   alt:
-  caption:
+  caption: 
 
 - file: pexels-photo-192550.jpeg
   name: pexels-photo-192550.jpeg
   alt:
-  caption:
+  caption: 
 
 - file: pexels-photo-57627.jpeg
   name: pexels-photo-57627.jpeg
   alt:
-  caption:
+  caption: 
 
 - file: pexels-photo-59523.jpeg
   name: pexels-photo-59523.jpeg
   alt:
-  caption:
+  caption: 
 
 - file: pexels-photo-60254.jpeg
   name: pexels-photo-60254.jpeg
   alt:
-  caption:
+  caption: 
 
 - file: pexels-photo-69371.jpeg
   name: pexels-photo-69371.jpeg
   alt:
-  caption:
+  caption: 
 
 - file: pexels-photo-69372.jpeg
   name: pexels-photo-69372.jpeg
   alt:
-  caption:
-
-- file: pexels-photo-92380.jpeg
-  name: pexels-photo-92380.jpeg
-  alt:
-  caption:
+  caption: 
 
 - file: wall-animal-dog-pet.jpg
   name: wall-animal-dog-pet.jpg
   alt:
-  caption:
+  caption: 
 
 hashes:
 - file: chihuahua-dog-puppy-cute-39317.jpeg
@@ -91,9 +86,6 @@ hashes:
 
 - file: pexels-photo-69372.jpeg
   hash: 2125771835725054915
-
-- file: pexels-photo-92380.jpeg
-  hash: 634311259565591597
 
 - file: wall-animal-dog-pet.jpg
   hash: 1810238501777572577
