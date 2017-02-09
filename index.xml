@@ -1,0 +1,277 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>My New Hugo Site</title>
+    <link>http://replace-this-with-your-hugo-site.com/</link>
+    <description>Recent content on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 07 Feb 2017 23:14:55 -0500</lastBuildDate>
+    <atom:link href="http://replace-this-with-your-hugo-site.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Cute Dogs!</title>
+      <link>http://replace-this-with-your-hugo-site.com/galleries/dogs/</link>
+      <pubDate>Tue, 07 Feb 2017 23:14:55 -0500</pubDate>
+      
+      <guid>http://replace-this-with-your-hugo-site.com/galleries/dogs/</guid>
+      <description>
+&lt;figure itemprop=&#34;associatedMedia&#34; itemscope
+itemtype=&#34;https://schema.org/ImageObject&#34;&gt;
+  &lt;a href=&#34;http://replace-this-with-your-hugo-site.com/pics//dogs/large/chihuahua-dog-puppy-cute-39317_1600x1066.jpg&#34; itemprop=&#34;contentUrl&#34; data-size=&#34;1600x1066&#34; data-medium-url=&#34;/pics//dogs/small/chihuahua-dog-puppy-cute-39317_800x533.jpg&#34; data-medium-size=&#34;800x533&#34;&gt;
+    &lt;img alt=&#34;None&#34; data-size=&#34;256x256&#34; itemprop=&#34;thumbnail&#34; src=&#34;http://replace-this-with-your-hugo-site.com/pics//dogs/thumb/chihuahua-dog-puppy-cute-39317_256x256.jpg&#34;&gt;
+  &lt;/a&gt;
+  &lt;figcaption itemprop=&#34;caption description&#34;&gt;
+    
+    
+  &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+
+&lt;figure itemprop=&#34;associatedMedia&#34; itemscope
+itemtype=&#34;https://schema.org/ImageObject&#34;&gt;
+  &lt;a href=&#34;http://replace-this-with-your-hugo-site.com/pics//dogs/large/pexels-photo-117486_1600x1066.jpg&#34; itemprop=&#34;contentUrl&#34; data-size=&#34;1600x1066&#34; data-medium-url=&#34;/pics//dogs/small/pexels-photo-117486_800x533.jpg&#34; data-medium-size=&#34;800x533&#34;&gt;
+    &lt;img alt=&#34;None&#34; data-size=&#34;256x256&#34; itemprop=&#34;thumbnail&#34; src=&#34;http://replace-this-with-your-hugo-site.com/pics//dogs/thumb/pexels-photo-117486_256x256.jpg&#34;&gt;
+  &lt;/a&gt;
+  &lt;figcaption itemprop=&#34;caption description&#34;&gt;
+    
+    
+  &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+
+&lt;figure itemprop=&#34;associatedMedia&#34; itemscope
+itemtype=&#34;https://schema.org/ImageObject&#34;&gt;
+  &lt;a href=&#34;http://replace-this-with-your-hugo-site.com/pics//dogs/large/pexels-photo-139519_1600x1066.jpg&#34; itemprop=&#34;contentUrl&#34; data-size=&#34;1600x1066&#34; data-medium-url=&#34;/pics//dogs/small/pexels-photo-139519_800x533.jpg&#34; data-medium-size=&#34;800x533&#34;&gt;
+    &lt;img alt=&#34;None&#34; data-size=&#34;256x256&#34; itemprop=&#34;thumbnail&#34; src=&#34;http://replace-this-with-your-hugo-site.com/pics//dogs/thumb/pexels-photo-139519_256x256.jpg&#34;&gt;
+  &lt;/a&gt;
+  &lt;figcaption itemprop=&#34;caption description&#34;&gt;
+    
+    
+  &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+
+&lt;figure itemprop=&#34;associatedMedia&#34; itemscope
+itemtype=&#34;https://schema.org/ImageObject&#34;&gt;
+  &lt;a href=&#34;http://replace-this-with-your-hugo-site.com/pics//dogs/large/pexels-photo-192550_1600x1066.jpg&#34; itemprop=&#34;contentUrl&#34; data-size=&#34;1600x1066&#34; data-medium-url=&#34;/pics//dogs/small/pexels-photo-192550_800x533.jpg&#34; data-medium-size=&#34;800x533&#34;&gt;
+    &lt;img alt=&#34;None&#34; data-size=&#34;256x256&#34; itemprop=&#34;thumbnail&#34; src=&#34;http://replace-this-with-your-hugo-site.com/pics//dogs/thumb/pexels-photo-192550_256x256.jpg&#34;&gt;
+  &lt;/a&gt;
+  &lt;figcaption itemprop=&#34;caption description&#34;&gt;
+    
+    
+  &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+
+&lt;figure itemprop=&#34;associatedMedia&#34; itemscope
+itemtype=&#34;https://schema.org/ImageObject&#34;&gt;
+  &lt;a href=&#34;http://replace-this-with-your-hugo-site.com/pics//dogs/large/pexels-photo-57627_1600x1066.jpg&#34; itemprop=&#34;contentUrl&#34; data-size=&#34;1600x1066&#34; data-medium-url=&#34;/pics//dogs/small/pexels-photo-57627_800x533.jpg&#34; data-medium-size=&#34;800x533&#34;&gt;
+    &lt;img alt=&#34;None&#34; data-size=&#34;256x256&#34; itemprop=&#34;thumbnail&#34; src=&#34;http://replace-this-with-your-hugo-site.com/pics//dogs/thumb/pexels-photo-57627_256x256.jpg&#34;&gt;
+  &lt;/a&gt;
+  &lt;figcaption itemprop=&#34;caption description&#34;&gt;
+    
+    
+  &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+
+&lt;figure itemprop=&#34;associatedMedia&#34; itemscope
+itemtype=&#34;https://schema.org/ImageObject&#34;&gt;
+  &lt;a href=&#34;http://replace-this-with-your-hugo-site.com/pics//dogs/large/pexels-photo-59523_1600x1040.jpg&#34; itemprop=&#34;contentUrl&#34; data-size=&#34;1600x1040&#34; data-medium-url=&#34;/pics//dogs/small/pexels-photo-59523_800x520.jpg&#34; data-medium-size=&#34;800x520&#34;&gt;
+    &lt;img alt=&#34;None&#34; data-size=&#34;256x256&#34; itemprop=&#34;thumbnail&#34; src=&#34;http://replace-this-with-your-hugo-site.com/pics//dogs/thumb/pexels-photo-59523_256x256.jpg&#34;&gt;
+  &lt;/a&gt;
+  &lt;figcaption itemprop=&#34;caption description&#34;&gt;
+    
+    
+  &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+
+&lt;figure itemprop=&#34;associatedMedia&#34; itemscope
+itemtype=&#34;https://schema.org/ImageObject&#34;&gt;
+  &lt;a href=&#34;http://replace-this-with-your-hugo-site.com/pics//dogs/large/pexels-photo-60254_1600x1066.jpg&#34; itemprop=&#34;contentUrl&#34; data-size=&#34;1600x1066&#34; data-medium-url=&#34;/pics//dogs/small/pexels-photo-60254_800x533.jpg&#34; data-medium-size=&#34;800x533&#34;&gt;
+    &lt;img alt=&#34;None&#34; data-size=&#34;256x256&#34; itemprop=&#34;thumbnail&#34; src=&#34;http://replace-this-with-your-hugo-site.com/pics//dogs/thumb/pexels-photo-60254_256x256.jpg&#34;&gt;
+  &lt;/a&gt;
+  &lt;figcaption itemprop=&#34;caption description&#34;&gt;
+    
+    
+  &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+
+&lt;figure itemprop=&#34;associatedMedia&#34; itemscope
+itemtype=&#34;https://schema.org/ImageObject&#34;&gt;
+  &lt;a href=&#34;http://replace-this-with-your-hugo-site.com/pics//dogs/large/pexels-photo-69371_1600x1064.jpg&#34; itemprop=&#34;contentUrl&#34; data-size=&#34;1600x1064&#34; data-medium-url=&#34;/pics//dogs/small/pexels-photo-69371_800x532.jpg&#34; data-medium-size=&#34;800x532&#34;&gt;
+    &lt;img alt=&#34;None&#34; data-size=&#34;256x256&#34; itemprop=&#34;thumbnail&#34; src=&#34;http://replace-this-with-your-hugo-site.com/pics//dogs/thumb/pexels-photo-69371_256x256.jpg&#34;&gt;
+  &lt;/a&gt;
+  &lt;figcaption itemprop=&#34;caption description&#34;&gt;
+    
+    
+  &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+
+&lt;figure itemprop=&#34;associatedMedia&#34; itemscope
+itemtype=&#34;https://schema.org/ImageObject&#34;&gt;
+  &lt;a href=&#34;http://replace-this-with-your-hugo-site.com/pics//dogs/large/pexels-photo-69372_1600x1064.jpg&#34; itemprop=&#34;contentUrl&#34; data-size=&#34;1600x1064&#34; data-medium-url=&#34;/pics//dogs/small/pexels-photo-69372_800x532.jpg&#34; data-medium-size=&#34;800x532&#34;&gt;
+    &lt;img alt=&#34;None&#34; data-size=&#34;256x256&#34; itemprop=&#34;thumbnail&#34; src=&#34;http://replace-this-with-your-hugo-site.com/pics//dogs/thumb/pexels-photo-69372_256x256.jpg&#34;&gt;
+  &lt;/a&gt;
+  &lt;figcaption itemprop=&#34;caption description&#34;&gt;
+    
+    
+  &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+
+&lt;figure itemprop=&#34;associatedMedia&#34; itemscope
+itemtype=&#34;https://schema.org/ImageObject&#34;&gt;
+  &lt;a href=&#34;http://replace-this-with-your-hugo-site.com/pics//dogs/large/wall-animal-dog-pet_1600x1200.jpg&#34; itemprop=&#34;contentUrl&#34; data-size=&#34;1600x1200&#34; data-medium-url=&#34;/pics//dogs/small/wall-animal-dog-pet_800x600.jpg&#34; data-medium-size=&#34;800x600&#34;&gt;
+    &lt;img alt=&#34;None&#34; data-size=&#34;256x256&#34; itemprop=&#34;thumbnail&#34; src=&#34;http://replace-this-with-your-hugo-site.com/pics//dogs/thumb/wall-animal-dog-pet_256x256.jpg&#34;&gt;
+  &lt;/a&gt;
+  &lt;figcaption itemprop=&#34;caption description&#34;&gt;
+    
+    
+  &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+
+
+
+</description>
+    </item>
+    
+    <item>
+      <title>Cute Cats!</title>
+      <link>http://replace-this-with-your-hugo-site.com/galleries/cats/</link>
+      <pubDate>Tue, 07 Feb 2017 22:53:32 -0500</pubDate>
+      
+      <guid>http://replace-this-with-your-hugo-site.com/galleries/cats/</guid>
+      <description>
+&lt;figure itemprop=&#34;associatedMedia&#34; itemscope
+itemtype=&#34;https://schema.org/ImageObject&#34;&gt;
+  &lt;a href=&#34;http://replace-this-with-your-hugo-site.com/pics//cats/large/cat-animal-cat-portrait-mackerel_1600x1093.jpg&#34; itemprop=&#34;contentUrl&#34; data-size=&#34;1600x1093&#34; data-medium-url=&#34;/pics//cats/small/cat-animal-cat-portrait-mackerel_800x546.jpg&#34; data-medium-size=&#34;800x546&#34;&gt;
+    &lt;img alt=&#34;None&#34; data-size=&#34;256x256&#34; itemprop=&#34;thumbnail&#34; src=&#34;http://replace-this-with-your-hugo-site.com/pics//cats/thumb/cat-animal-cat-portrait-mackerel_256x256.jpg&#34;&gt;
+  &lt;/a&gt;
+  &lt;figcaption itemprop=&#34;caption description&#34;&gt;
+    
+    
+  &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+
+&lt;figure itemprop=&#34;associatedMedia&#34; itemscope
+itemtype=&#34;https://schema.org/ImageObject&#34;&gt;
+  &lt;a href=&#34;http://replace-this-with-your-hugo-site.com/pics//cats/large/cat-pet-animal-domestic-104827_1599x1062.jpg&#34; itemprop=&#34;contentUrl&#34; data-size=&#34;1599x1062&#34; data-medium-url=&#34;/pics//cats/small/cat-pet-animal-domestic-104827_799x531.jpg&#34; data-medium-size=&#34;799x531&#34;&gt;
+    &lt;img alt=&#34;None&#34; data-size=&#34;256x256&#34; itemprop=&#34;thumbnail&#34; src=&#34;http://replace-this-with-your-hugo-site.com/pics//cats/thumb/cat-pet-animal-domestic-104827_256x256.jpg&#34;&gt;
+  &lt;/a&gt;
+  &lt;figcaption itemprop=&#34;caption description&#34;&gt;
+    
+    
+  &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+
+&lt;figure itemprop=&#34;associatedMedia&#34; itemscope
+itemtype=&#34;https://schema.org/ImageObject&#34;&gt;
+  &lt;a href=&#34;http://replace-this-with-your-hugo-site.com/pics//cats/large/kittens-cat-cat-puppy-rush-45170_1600x889.jpg&#34; itemprop=&#34;contentUrl&#34; data-size=&#34;1600x889&#34; data-medium-url=&#34;/pics//cats/small/kittens-cat-cat-puppy-rush-45170_800x444.jpg&#34; data-medium-size=&#34;800x444&#34;&gt;
+    &lt;img alt=&#34;None&#34; data-size=&#34;256x256&#34; itemprop=&#34;thumbnail&#34; src=&#34;http://replace-this-with-your-hugo-site.com/pics//cats/thumb/kittens-cat-cat-puppy-rush-45170_256x256.jpg&#34;&gt;
+  &lt;/a&gt;
+  &lt;figcaption itemprop=&#34;caption description&#34;&gt;
+    
+    
+  &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+
+&lt;figure itemprop=&#34;associatedMedia&#34; itemscope
+itemtype=&#34;https://schema.org/ImageObject&#34;&gt;
+  &lt;a href=&#34;http://replace-this-with-your-hugo-site.com/pics//cats/large/pexels-photo-126407_1600x900.jpg&#34; itemprop=&#34;contentUrl&#34; data-size=&#34;1600x900&#34; data-medium-url=&#34;/pics//cats/small/pexels-photo-126407_800x450.jpg&#34; data-medium-size=&#34;800x450&#34;&gt;
+    &lt;img alt=&#34;None&#34; data-size=&#34;256x256&#34; itemprop=&#34;thumbnail&#34; src=&#34;http://replace-this-with-your-hugo-site.com/pics//cats/thumb/pexels-photo-126407_256x256.jpg&#34;&gt;
+  &lt;/a&gt;
+  &lt;figcaption itemprop=&#34;caption description&#34;&gt;
+    
+    
+  &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+
+&lt;figure itemprop=&#34;associatedMedia&#34; itemscope
+itemtype=&#34;https://schema.org/ImageObject&#34;&gt;
+  &lt;a href=&#34;http://replace-this-with-your-hugo-site.com/pics//cats/large/pexels-photo-127028_1599x1066.jpg&#34; itemprop=&#34;contentUrl&#34; data-size=&#34;1599x1066&#34; data-medium-url=&#34;/pics//cats/small/pexels-photo-127028_799x533.jpg&#34; data-medium-size=&#34;799x533&#34;&gt;
+    &lt;img alt=&#34;None&#34; data-size=&#34;256x256&#34; itemprop=&#34;thumbnail&#34; src=&#34;http://replace-this-with-your-hugo-site.com/pics//cats/thumb/pexels-photo-127028_256x256.jpg&#34;&gt;
+  &lt;/a&gt;
+  &lt;figcaption itemprop=&#34;caption description&#34;&gt;
+    
+    
+  &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+
+&lt;figure itemprop=&#34;associatedMedia&#34; itemscope
+itemtype=&#34;https://schema.org/ImageObject&#34;&gt;
+  &lt;a href=&#34;http://replace-this-with-your-hugo-site.com/pics//cats/large/pexels-photo-26511_1600x900.jpg&#34; itemprop=&#34;contentUrl&#34; data-size=&#34;1600x900&#34; data-medium-url=&#34;/pics//cats/small/pexels-photo-26511_800x450.jpg&#34; data-medium-size=&#34;800x450&#34;&gt;
+    &lt;img alt=&#34;None&#34; data-size=&#34;256x256&#34; itemprop=&#34;thumbnail&#34; src=&#34;http://replace-this-with-your-hugo-site.com/pics//cats/thumb/pexels-photo-26511_256x256.jpg&#34;&gt;
+  &lt;/a&gt;
+  &lt;figcaption itemprop=&#34;caption description&#34;&gt;
+    
+    
+  &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+
+&lt;figure itemprop=&#34;associatedMedia&#34; itemscope
+itemtype=&#34;https://schema.org/ImageObject&#34;&gt;
+  &lt;a href=&#34;http://replace-this-with-your-hugo-site.com/pics//cats/large/pexels-photo-62640_1600x1063.jpg&#34; itemprop=&#34;contentUrl&#34; data-size=&#34;1600x1063&#34; data-medium-url=&#34;/pics//cats/small/pexels-photo-62640_800x531.jpg&#34; data-medium-size=&#34;800x531&#34;&gt;
+    &lt;img alt=&#34;None&#34; data-size=&#34;256x256&#34; itemprop=&#34;thumbnail&#34; src=&#34;http://replace-this-with-your-hugo-site.com/pics//cats/thumb/pexels-photo-62640_256x256.jpg&#34;&gt;
+  &lt;/a&gt;
+  &lt;figcaption itemprop=&#34;caption description&#34;&gt;
+    
+    
+  &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+
+&lt;figure itemprop=&#34;associatedMedia&#34; itemscope
+itemtype=&#34;https://schema.org/ImageObject&#34;&gt;
+  &lt;a href=&#34;http://replace-this-with-your-hugo-site.com/pics//cats/large/pexels-photo-96938_1600x983.jpg&#34; itemprop=&#34;contentUrl&#34; data-size=&#34;1600x983&#34; data-medium-url=&#34;/pics//cats/small/pexels-photo-96938_800x491.jpg&#34; data-medium-size=&#34;800x491&#34;&gt;
+    &lt;img alt=&#34;None&#34; data-size=&#34;256x256&#34; itemprop=&#34;thumbnail&#34; src=&#34;http://replace-this-with-your-hugo-site.com/pics//cats/thumb/pexels-photo-96938_256x256.jpg&#34;&gt;
+  &lt;/a&gt;
+  &lt;figcaption itemprop=&#34;caption description&#34;&gt;
+    
+    
+  &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+
+&lt;figure itemprop=&#34;associatedMedia&#34; itemscope
+itemtype=&#34;https://schema.org/ImageObject&#34;&gt;
+  &lt;a href=&#34;http://replace-this-with-your-hugo-site.com/pics//cats/large/pexels-photo_1600x1068.jpg&#34; itemprop=&#34;contentUrl&#34; data-size=&#34;1600x1068&#34; data-medium-url=&#34;/pics//cats/small/pexels-photo_800x534.jpg&#34; data-medium-size=&#34;800x534&#34;&gt;
+    &lt;img alt=&#34;None&#34; data-size=&#34;256x256&#34; itemprop=&#34;thumbnail&#34; src=&#34;http://replace-this-with-your-hugo-site.com/pics//cats/thumb/pexels-photo_256x256.jpg&#34;&gt;
+  &lt;/a&gt;
+  &lt;figcaption itemprop=&#34;caption description&#34;&gt;
+    
+    
+  &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+
+&lt;figure itemprop=&#34;associatedMedia&#34; itemscope
+itemtype=&#34;https://schema.org/ImageObject&#34;&gt;
+  &lt;a href=&#34;http://replace-this-with-your-hugo-site.com/pics//cats/large/pexels-photo_001_1600x1066.jpg&#34; itemprop=&#34;contentUrl&#34; data-size=&#34;1600x1066&#34; data-medium-url=&#34;/pics//cats/small/pexels-photo_001_800x533.jpg&#34; data-medium-size=&#34;800x533&#34;&gt;
+    &lt;img alt=&#34;None&#34; data-size=&#34;256x256&#34; itemprop=&#34;thumbnail&#34; src=&#34;http://replace-this-with-your-hugo-site.com/pics//cats/thumb/pexels-photo_001_256x256.jpg&#34;&gt;
+  &lt;/a&gt;
+  &lt;figcaption itemprop=&#34;caption description&#34;&gt;
+    
+    
+  &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+
+
+
+</description>
+    </item>
+    
+  </channel>
+</rss>
