@@ -18,5 +18,5 @@ photo_dir: photos
 smartcrop_js_path:
 square_coverimage: True
 square_thumbnails: True
-url_prefix: pics
+url_prefix: /HugoPhotoSwipe-Demo/pics
 use_smartcrop_js: False
