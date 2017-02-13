@@ -1,12 +1,12 @@
 +++
 title = "Cute Dogs!"
 date = "2017-02-07T23:14:55-05:00"
-animal = "dog"
+animal = """dog"""
 cover = "/HugoPhotoSwipe-Demo/pics/dogs/coverimage.jpg"
 +++
 
 {{< wrap >}}
-{{< photo href="/HugoPhotoSwipe-Demo/pics/dogs/large/chihuahua-dog-puppy-cute-39317_1600x1066.jpg" largeDim="1600x1066" smallUrl="/HugoPhotoSwipe-Demo/pics/dogs/small/chihuahua-dog-puppy-cute-39317_800x533.jpg" smallDim="800x533" alt="None" thumbSize="256x256" thumbUrl="/HugoPhotoSwipe-Demo/pics/dogs/thumb/chihuahua-dog-puppy-cute-39317_256x256.jpg" caption="" copyright="" >}}
+{{< photo href="/HugoPhotoSwipe-Demo/pics/dogs/large/chihuahua_in_a_cup_1600x1066.jpg" largeDim="1600x1066" smallUrl="/HugoPhotoSwipe-Demo/pics/dogs/small/chihuahua_in_a_cup_800x533.jpg" smallDim="800x533" alt="cute chihuahua in a cup" thumbSize="256x256" thumbUrl="/HugoPhotoSwipe-Demo/pics/dogs/thumb/chihuahua_in_a_cup_256x256.jpg" caption="Look at this tiny Chihuahua in a cup!" copyright="" >}}
 
 {{< photo href="/HugoPhotoSwipe-Demo/pics/dogs/large/pexels-photo-117486_1600x1066.jpg" largeDim="1600x1066" smallUrl="/HugoPhotoSwipe-Demo/pics/dogs/small/pexels-photo-117486_800x533.jpg" smallDim="800x533" alt="None" thumbSize="256x256" thumbUrl="/HugoPhotoSwipe-Demo/pics/dogs/thumb/pexels-photo-117486_256x256.jpg" caption="" copyright="" >}}
 

@@ -1,7 +1,7 @@
 +++
 title = "Cute Cats!"
 date = "2017-02-07T22:53:32-05:00"
-animal = "cat"
+animal = """cat"""
 cover = "/HugoPhotoSwipe-Demo/pics/cats/coverimage.jpg"
 +++
 

@@ -6,13 +6,14 @@ properties:
 copyright:
 coverimage: wall-animal-dog-pet.jpg
 creation_time: "2017-02-08T23:16:59-05:00"
-modification_time: "2017-02-10T21:52:04-05:00"
+modification_time: "2017-02-12T21:27:03-05:00"
 
 photos:
 - file: chihuahua-dog-puppy-cute-39317.jpeg
-  name: chihuahua-dog-puppy-cute-39317.jpeg
-  alt:
-  caption: 
+  name: chihuahua in a cup
+  alt: cute chihuahua in a cup
+  caption: >
+          Look at this tiny Chihuahua in a cup!
 
 - file: pexels-photo-117486.jpeg
   name: pexels-photo-117486.jpeg
