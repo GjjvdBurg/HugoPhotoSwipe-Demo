@@ -18,11 +18,11 @@
       <description>
 &lt;figure itemprop=&#34;associatedMedia&#34; itemscope
 itemtype=&#34;https://schema.org/ImageObject&#34;&gt;
-  &lt;a href=&#34;https://gjjvdburg.github.io/HugoPhotoSwipe-Demo/HugoPhotoSwipe-Demo/pics/dogs/large/chihuahua-dog-puppy-cute-39317_1600x1066.jpg&#34; itemprop=&#34;contentUrl&#34; data-size=&#34;1600x1066&#34; data-medium-url=&#34;/HugoPhotoSwipe-Demo/pics/dogs/small/chihuahua-dog-puppy-cute-39317_800x533.jpg&#34; data-medium-size=&#34;800x533&#34;&gt;
-    &lt;img alt=&#34;None&#34; data-size=&#34;256x256&#34; itemprop=&#34;thumbnail&#34; src=&#34;https://gjjvdburg.github.io/HugoPhotoSwipe-Demo/HugoPhotoSwipe-Demo/pics/dogs/thumb/chihuahua-dog-puppy-cute-39317_256x256.jpg&#34;&gt;
+  &lt;a href=&#34;https://gjjvdburg.github.io/HugoPhotoSwipe-Demo/HugoPhotoSwipe-Demo/pics/dogs/large/chihuahua_in_a_cup_1600x1066.jpg&#34; itemprop=&#34;contentUrl&#34; data-size=&#34;1600x1066&#34; data-medium-url=&#34;/HugoPhotoSwipe-Demo/pics/dogs/small/chihuahua_in_a_cup_800x533.jpg&#34; data-medium-size=&#34;800x533&#34;&gt;
+    &lt;img alt=&#34;cute chihuahua in a cup&#34; data-size=&#34;256x256&#34; itemprop=&#34;thumbnail&#34; src=&#34;https://gjjvdburg.github.io/HugoPhotoSwipe-Demo/HugoPhotoSwipe-Demo/pics/dogs/thumb/chihuahua_in_a_cup_256x256.jpg&#34;&gt;
   &lt;/a&gt;
   &lt;figcaption itemprop=&#34;caption description&#34;&gt;
-    
+    Look at this tiny Chihuahua in a cup!
     
   &lt;/figcaption&gt;
 &lt;/figure&gt;
