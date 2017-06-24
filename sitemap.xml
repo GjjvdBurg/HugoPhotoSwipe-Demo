@@ -2,12 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://gjjvdburg.github.io/HugoPhotoSwipe-Demo/</loc>
-    <lastmod>2017-02-07T23:14:55-05:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://gjjvdburg.github.io/HugoPhotoSwipe-Demo/galleries/dogs/</loc>
     <lastmod>2017-02-07T23:14:55-05:00</lastmod>
   </url>
@@ -15,6 +9,18 @@
   <url>
     <loc>https://gjjvdburg.github.io/HugoPhotoSwipe-Demo/galleries/cats/</loc>
     <lastmod>2017-02-07T22:53:32-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://gjjvdburg.github.io/HugoPhotoSwipe-Demo/galleries/</loc>
+    <lastmod>2017-02-07T23:14:55-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://gjjvdburg.github.io/HugoPhotoSwipe-Demo/</loc>
+    <lastmod>2017-02-07T23:14:55-05:00</lastmod>
+    <priority>0</priority>
   </url>
   
 </urlset>
